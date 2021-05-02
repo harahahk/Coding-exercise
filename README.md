@@ -5,7 +5,7 @@
  
     1. clone the code in a directory
       
-            git clone https://github.com/sahasrara62/filed_audio_file_server.git
+            git clone https://github.com/harahahk/Coding-exercise.git'
     2. go in the directory `cd filed_audio_file_server`
     3. install all project requirements, use command
         `python -m pipenv install -r requirements.txt`
@@ -93,7 +93,7 @@ Test challenge summary is define in documentation folder
 ##How to start
 
 1. Clone the repo from github
-    `git clone https://github.com/sahasrara62/filed_audio_file_server.git`
+    `git clone https://github.com/harahahk/Coding-exercise.git'
 2. in terminal go to folder , `cd filed_audio_file_server`
 3. setup flask app 
 
